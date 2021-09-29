@@ -1,0 +1,2 @@
+int problemOne();
+int problemSix();
